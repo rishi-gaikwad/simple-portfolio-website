@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5rem;
+  background-color: #003350;
+}
+.left-side {
+  width: 40%;
+  margin-top: 2rem;
+}
+.left-side h1 {
+  font-size: 3.5rem;
+  color: #fff;
+  font-family: "Rajdhani", sans-serif;
+}
+.left-side p {
+  font-size: 1.5rem;
+  margin: 1em 0;
+  font-weight: 400;
+  font-family: "Raylway", sans-serif;
+  line-height: 2rem;
+  color: #fff;
+}
+.left-side span {
+  color: purple;
+}
+.cta {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  margin-top: 2em;
+  align-items: start;
+}
+.cta button {
+  padding: 1rem 2rem;
+  background-color: black;
+  border: none;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 2em;
+  transition-duration: 0.7s;
+}
+.cta button:hover {
+  color: black;
+  background: rgb(33, 197, 33);
+}
+.right-side {
+  width: 50%;
+}
+.right-side img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 900px) {
+  html {
+    font-size: 14px;
+  }
+  .main {
+    flex-direction: column;
+  }
+  .left-side {
+    width: 82%;
+    padding-left: 0rem;
+    margin-left: -7rem;
+    margin-top: 4rem;
+  }
+  .cta {
+    width: 80%;
+    top: 0;
+  }
+  .right-side {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+  .main {
+    flex-direction: column;
+    margin-top: 1em;
+    align-items: center;
+    width: full;
+    margin: 0;
+    padding: 0;
+  }
+
+  .left-side {
+    width: 90%;
+    margin-top: 4rem;
+    margin-left: 1rem;
+  }
+  .left-side h1 {
+    font-size: 3rem;
+  }
+  .left-side p {
+    font-size: 1.1rem;
+  }
+  .cta {
+    width: 100%;
+    display: flex;
+    margin-top: 1em;
+    align-items: center;
+  }
+  .cta button {
+    padding: 1rem 1rem;
+    background-color: black;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 2em;
+  }
+  .right-side {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .main {
+    margin: 0% 0%;
+    padding: 0% 0%;
+  }
+  .left-side {
+    margin-left: 3rem;
+    margin-top: 6rem;
+  }
+  .left-side h1 {
+    font-size: 23px;
+  }
+  .left-side p {
+    font-size: 13px;
+  }
+  .right-side {
+    width: 111%;
+  }
+  .cta button {
+    padding: 7px 14px;
+    background-color: black;
+    border: none;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 50px;
+  }
+
+  .right-side {
+    width: 80%;
+  }
+}
