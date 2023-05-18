@@ -1,8 +1,5 @@
-<p align="center">
-  <img  width="100" height="80%" src="https://lh3.googleusercontent.com/jwHnfMSqp3IryT21mXZ8TII8B73ztrmqPBcGRftQ36zdpPW-MrnAvLe_nvyHAflWiw9T" alt="Player music"></a>
-</p>
 
-<h3 align="center">Portfolio Clone</h3>
+ <h3 align="center">Portfolio Clone</h3>
 
 ## Introduction:
 
@@ -29,13 +26,23 @@ $ npm start
 ## Browse Page:
 
 <<<<<<< HEAD
-![whatapp ss2](https://user-images.githubusercontent.com/117716265/236618293-4f5728a6-bf05-4367-8d32-521d685d11d9.png)
 
-# ![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
 
-![whatapp ss2](https://user-images.githubusercontent.com/117716265/236618293-4f5728a6-bf05-4367-8d32-521d685d11d9.png)
 
-![whatsapp ss](https://user-images.githubusercontent.com/117716265/236618262-c6101b91-16a2-40fa-b4c8-4ba873ba7bb3.png)
+
+![home](https://github.com/rishi-gaikwad/Protfolio-Clone/assets/117716265/f8be4a9b-4ec7-4c98-86d8-a835c41b3a47)
+
+![work](https://github.com/rishi-gaikwad/Protfolio-Clone/assets/117716265/20bbde04-c04a-46c9-bbab-01892d25e665)
+
+
+![aboutpage](https://github.com/rishi-gaikwad/Protfolio-Clone/assets/117716265/58bf615f-2e7f-4d7b-aa72-7de6b2f89828)
+
+
+#
+
+
+
+
 
 > > > > > > > 22dc5c1f4de2092e1c3354d7039950b0f870a518
 
